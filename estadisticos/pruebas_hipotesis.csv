@@ -1,2 +1,2 @@
 Variable,Tipo_de_prueba,Estadístico,p_value,alpha,decisión,interpretación
-PM2.5,Chi-cuadrado,0.006428213577921371,0.9360971658234862,0.05,No rechaza H0,No hay asociación
+PM2.5,Chi-cuadrado,0.006428213577921371,0.9360971658234862,0.05,No rechaza H0,No hay asociación significativa

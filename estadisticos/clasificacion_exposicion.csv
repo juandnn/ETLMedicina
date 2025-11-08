@@ -1,96 +1,96 @@
-LOCALIDAD,ANIO,pm2.5,Categoria_PM2.5,Categoria_NO2,Exposición_general
-Antonio Nariño,2020,8.7,Baja,Media,Media
-Antonio Nariño,2021,11.9,Media,Baja,Media
-Antonio Nariño,2022,17.1,Media,Alta,Alta
-Antonio Nariño,2023,14.4,Media,Media,Media
-Antonio Nariño,2024,14.9,Media,Baja,Media
-Barrios Unidos,2020,13.1,Media,Alta,Alta
-Barrios Unidos,2021,12.9,Media,Media,Media
-Barrios Unidos,2022,15.3,Media,Baja,Media
-Barrios Unidos,2023,13.8,Media,Baja,Media
-Barrios Unidos,2024,10.9,Media,Alta,Alta
-Bosa,2020,0.0,Baja,Media,Media
-Bosa,2021,0.0,Baja,Baja,Baja
-Bosa,2022,0.0,Baja,Baja,Baja
-Bosa,2023,0.0,Baja,Media,Media
-Bosa,2024,0.0,Baja,Media,Media
-Chapinero,2020,6.3,Baja,Alta,Alta
-Chapinero,2021,6.0,Baja,Media,Media
-Chapinero,2022,14.5,Media,Media,Media
-Chapinero,2023,9.4,Baja,Alta,Alta
-Chapinero,2024,14.0,Media,Baja,Media
-Ciudad Bolívar,2020,0.0,Baja,Alta,Alta
-Ciudad Bolívar,2021,0.0,Baja,Alta,Alta
-Ciudad Bolívar,2022,19.8,Media,Alta,Alta
-Ciudad Bolívar,2023,17.5,Media,Media,Media
-Ciudad Bolívar,2024,17.5,Media,Baja,Media
-Engativá,2020,5.8,Baja,Alta,Alta
-Engativá,2021,11.9,Media,Alta,Alta
-Engativá,2022,15.9,Media,Baja,Media
-Engativá,2023,13.4,Media,Alta,Alta
-Engativá,2024,11.7,Media,Media,Media
-Fontibón,2020,9.1,Baja,Alta,Alta
-Fontibón,2021,8.5,Baja,Media,Media
-Fontibón,2022,20.9,Alta,Media,Alta
-Fontibón,2023,19.5,Media,Alta,Alta
-Fontibón,2024,20.0,Alta,Media,Alta
-Kennedy,2020,23.2,Alta,Baja,Alta
-Kennedy,2021,23.3,Alta,Media,Alta
-Kennedy,2022,13.5,Media,Alta,Alta
-Kennedy,2023,15.9,Media,Media,Media
-Kennedy,2024,23.7,Alta,Baja,Alta
-La Candelaria,2020,12.0,Media,Media,Media
-La Candelaria,2021,11.8,Media,Baja,Media
-La Candelaria,2022,14.9,Media,Baja,Media
-La Candelaria,2023,11.5,Media,Media,Media
-La Candelaria,2024,13.4,Media,Baja,Media
-Los Mártires,2020,8.0,Baja,Media,Media
-Los Mártires,2021,11.4,Media,Alta,Alta
-Los Mártires,2022,15.6,Media,Media,Media
-Los Mártires,2023,12.6,Media,Media,Media
-Los Mártires,2024,14.5,Media,Media,Media
-Puente Aranda,2020,10.3,Media,Alta,Alta
-Puente Aranda,2021,15.1,Media,Media,Media
-Puente Aranda,2022,16.7,Media,Baja,Media
-Puente Aranda,2023,14.0,Media,Media,Media
-Puente Aranda,2024,15.8,Media,Media,Media
-Rafael Uribe Uribe,2020,13.0,Media,Alta,Alta
-Rafael Uribe Uribe,2021,12.6,Media,Media,Media
-Rafael Uribe Uribe,2022,17.1,Media,Media,Media
-Rafael Uribe Uribe,2023,14.2,Media,Baja,Media
-Rafael Uribe Uribe,2024,14.2,Media,Media,Media
-San Cristóbal,2020,11.2,Media,Alta,Alta
-San Cristóbal,2021,11.6,Media,Media,Media
-San Cristóbal,2022,14.3,Media,Media,Media
-San Cristóbal,2023,10.1,Media,Baja,Media
-San Cristóbal,2024,12.4,Media,Alta,Alta
-Santa Fe,2020,12.0,Media,Media,Media
-Santa Fe,2021,11.8,Media,Alta,Alta
-Santa Fe,2022,14.9,Media,Alta,Alta
-Santa Fe,2023,11.5,Media,Baja,Media
-Santa Fe,2024,13.4,Media,Alta,Alta
-Suba,2020,9.6,Baja,Baja,Baja
-Suba,2021,8.7,Baja,Baja,Baja
-Suba,2022,12.6,Media,Baja,Media
-Suba,2023,12.7,Media,Alta,Alta
-Suba,2024,14.1,Media,Baja,Media
-Teusaquillo,2020,11.6,Media,Alta,Alta
-Teusaquillo,2021,11.2,Media,Media,Media
-Teusaquillo,2022,15.2,Media,Media,Media
-Teusaquillo,2023,11.5,Media,Alta,Alta
-Teusaquillo,2024,13.6,Media,Alta,Alta
-Tunjuelito,2020,19.7,Media,Media,Media
-Tunjuelito,2021,19.6,Media,Baja,Media
-Tunjuelito,2022,14.4,Media,Media,Media
-Tunjuelito,2023,14.8,Media,Alta,Alta
-Tunjuelito,2024,23.4,Alta,Media,Alta
-Usaquén,2020,13.3,Media,Media,Media
-Usaquén,2021,6.4,Baja,Baja,Baja
-Usaquén,2022,11.7,Media,Media,Media
-Usaquén,2023,9.9,Baja,Media,Media
-Usaquén,2024,10.8,Media,Baja,Media
-Usme,2020,0.0,Baja,Alta,Alta
-Usme,2021,0.0,Baja,Media,Media
-Usme,2022,13.9,Media,Baja,Media
-Usme,2023,10.7,Media,Alta,Alta
-Usme,2024,13.7,Media,Media,Media
+LOCALIDAD,ANIO,pm2.5,Categoría_PM2.5,Exposición_general
+Antonio Nariño,2020,8.7,Baja,Baja
+Antonio Nariño,2021,11.9,Media,Media
+Antonio Nariño,2022,17.1,Media,Media
+Antonio Nariño,2023,14.4,Media,Media
+Antonio Nariño,2024,14.9,Media,Media
+Barrios Unidos,2020,13.1,Media,Media
+Barrios Unidos,2021,12.9,Media,Media
+Barrios Unidos,2022,15.3,Media,Media
+Barrios Unidos,2023,13.8,Media,Media
+Barrios Unidos,2024,10.9,Media,Media
+Bosa,2020,0.0,Baja,Baja
+Bosa,2021,0.0,Baja,Baja
+Bosa,2022,0.0,Baja,Baja
+Bosa,2023,0.0,Baja,Baja
+Bosa,2024,0.0,Baja,Baja
+Chapinero,2020,6.3,Baja,Baja
+Chapinero,2021,6.0,Baja,Baja
+Chapinero,2022,14.5,Media,Media
+Chapinero,2023,9.4,Baja,Baja
+Chapinero,2024,14.0,Media,Media
+Ciudad Bolívar,2020,0.0,Baja,Baja
+Ciudad Bolívar,2021,0.0,Baja,Baja
+Ciudad Bolívar,2022,19.8,Media,Media
+Ciudad Bolívar,2023,17.5,Media,Media
+Ciudad Bolívar,2024,17.5,Media,Media
+Engativá,2020,5.8,Baja,Baja
+Engativá,2021,11.9,Media,Media
+Engativá,2022,15.9,Media,Media
+Engativá,2023,13.4,Media,Media
+Engativá,2024,11.7,Media,Media
+Fontibón,2020,9.1,Baja,Baja
+Fontibón,2021,8.5,Baja,Baja
+Fontibón,2022,20.9,Alta,Alta
+Fontibón,2023,19.5,Media,Media
+Fontibón,2024,20.0,Alta,Alta
+Kennedy,2020,23.2,Alta,Alta
+Kennedy,2021,23.3,Alta,Alta
+Kennedy,2022,13.5,Media,Media
+Kennedy,2023,15.9,Media,Media
+Kennedy,2024,23.7,Alta,Alta
+La Candelaria,2020,12.0,Media,Media
+La Candelaria,2021,11.8,Media,Media
+La Candelaria,2022,14.9,Media,Media
+La Candelaria,2023,11.5,Media,Media
+La Candelaria,2024,13.4,Media,Media
+Los Mártires,2020,8.0,Baja,Baja
+Los Mártires,2021,11.4,Media,Media
+Los Mártires,2022,15.6,Media,Media
+Los Mártires,2023,12.6,Media,Media
+Los Mártires,2024,14.5,Media,Media
+Puente Aranda,2020,10.3,Media,Media
+Puente Aranda,2021,15.1,Media,Media
+Puente Aranda,2022,16.7,Media,Media
+Puente Aranda,2023,14.0,Media,Media
+Puente Aranda,2024,15.8,Media,Media
+Rafael Uribe Uribe,2020,13.0,Media,Media
+Rafael Uribe Uribe,2021,12.6,Media,Media
+Rafael Uribe Uribe,2022,17.1,Media,Media
+Rafael Uribe Uribe,2023,14.2,Media,Media
+Rafael Uribe Uribe,2024,14.2,Media,Media
+San Cristóbal,2020,11.2,Media,Media
+San Cristóbal,2021,11.6,Media,Media
+San Cristóbal,2022,14.3,Media,Media
+San Cristóbal,2023,10.1,Media,Media
+San Cristóbal,2024,12.4,Media,Media
+Santa Fe,2020,12.0,Media,Media
+Santa Fe,2021,11.8,Media,Media
+Santa Fe,2022,14.9,Media,Media
+Santa Fe,2023,11.5,Media,Media
+Santa Fe,2024,13.4,Media,Media
+Suba,2020,9.6,Baja,Baja
+Suba,2021,8.7,Baja,Baja
+Suba,2022,12.6,Media,Media
+Suba,2023,12.7,Media,Media
+Suba,2024,14.1,Media,Media
+Teusaquillo,2020,11.6,Media,Media
+Teusaquillo,2021,11.2,Media,Media
+Teusaquillo,2022,15.2,Media,Media
+Teusaquillo,2023,11.5,Media,Media
+Teusaquillo,2024,13.6,Media,Media
+Tunjuelito,2020,19.7,Media,Media
+Tunjuelito,2021,19.6,Media,Media
+Tunjuelito,2022,14.4,Media,Media
+Tunjuelito,2023,14.8,Media,Media
+Tunjuelito,2024,23.4,Alta,Alta
+Usaquén,2020,13.3,Media,Media
+Usaquén,2021,6.4,Baja,Baja
+Usaquén,2022,11.7,Media,Media
+Usaquén,2023,9.9,Baja,Baja
+Usaquén,2024,10.8,Media,Media
+Usme,2020,0.0,Baja,Baja
+Usme,2021,0.0,Baja,Baja
+Usme,2022,13.9,Media,Media
+Usme,2023,10.7,Media,Media
+Usme,2024,13.7,Media,Media
